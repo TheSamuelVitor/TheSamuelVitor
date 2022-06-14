@@ -1,5 +1,5 @@
 <meta charset="UTF-8">
-### Hi there 👋
+### Hi there 👋<br>
 ### Welcome to my profile
 
 <h1>Samuel Vitor</h1>
@@ -8,8 +8,9 @@
 - ⚡ I study English and French as a hobby.
 - &#x1F60E; I like to run and to practice Martial Arts
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula)
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula)](https://github.com/TheSamuelVitor)
 - How to contact me:
 <a href="https://github.com/TheSamuelVitor" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Logo Github">
@@ -18,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo Linkedin">
 </a>
 
-- Languages I had contact in college
+- Languages already had contact with
 <p>
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="LOgo Python"></p>
 <p>
