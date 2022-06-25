@@ -9,8 +9,7 @@
         <li>⚡ I study English and French as a hobby.</li>
         <li>&#x1F60E; I like to run and to practice Martial Arts</li>
     </ul>
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true)
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula)](https://github.com/TheSamuelVitor)
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true)
 <br>
