@@ -1,12 +1,16 @@
-<meta charset="UTF-8">
 ### Hi there 👋<br>
 ### Welcome to my profile
 
 <h1>Samuel Vitor</h1>
 
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Go.
-- ⚡ I study English and French as a hobby.
-- &#x1F60E; I like to run and to practice Martial Arts
+<div class="sobremim">
+    <ul>
+        <li>🌱 I'm currently learning HTML, CSS, JavaScript and Go.</li>
+        <li>⚡ I study English and French as a hobby.</li>
+        <li>&#x1F60E; I like to run and to practice Martial Arts</li>
+    </ul>
+    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula)](https://github.com/TheSamuelVitor)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true)
 <br>
