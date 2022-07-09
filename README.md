@@ -10,7 +10,9 @@
         <li>&#x1F60E; I like to run and to practice Martial Arts</li>
     </ul>
 
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula)](https://github.com/TheSamuelVitor)
 
 <h2>How to contact me:</h2>
