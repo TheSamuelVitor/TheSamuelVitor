@@ -4,16 +4,15 @@
 <h1>Samuel Vitor</h1>
 
 <div class="sobremim">
-    <ul>
-        <li>🌱 I'm currently learning HTML, CSS, JavaScript and Go.</li>
-        <li>⚡ I study English and French as a hobby.</li>
-        <li>&#x1F60E; I like to run and to practice Martial Arts</li>
-    </ul>
+<ul>
+    <li>🌱 I'm currently learning HTML, CSS, JavaScript and Go.</li>
+    <li>⚡ I study English and French as a hobby.</li>
+    <li>&#x1F60E; I like to run and to practice Martial Arts</li>
+</ul>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true)
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula)](https://github.com/TheSamuelVitor)
+<img src="https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true" alt="Logo Linkedin" style="height:160px">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula" alt="Logo Linkedin" style="height:160px">
 
 <h2>How to contact me:</h2>
 <a href="https://github.com/TheSamuelVitor" target="_blank">
