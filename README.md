@@ -1,4 +1,4 @@
-Hi there</br>
+Hi there<br/>
 Welcome to my profile
 
 # Samuel Vitor
@@ -21,18 +21,10 @@ Welcome to my profile
 
 ## How to contact me:
 
-<a href="https://github.com/TheSamuelVitor" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Logo Github">
-</a>
-<a href="https://www.linkedin.com/in/samuel-vitor-b07566202/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Logo Linkedin">
-</a>
+[![Logo Github](https://skillicons.dev/icons?i=github)](https://github.com/TheSamuelVitor)
+[![Logo Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/samuel-vitor-b07566202/)
+[![Logo Instagram](https://skillicons.dev/icons?i=instagram)](https://www.linkedin.com/in/samuel-vitor-b07566202/)
 
-## Languages already had contact with
-![Logo Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Logo JavaScript](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Logo C](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Logo C++](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Logo HTML](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Logo CSS3](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Logo GO](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+## Tecnologias e linguagens que já tive contato
+
+[![My Skills](https://skillicons.dev/icons?i=go,react,angular,c,cpp,js,html,css,git,postgres,python,vscode,linux)](https://skillicons.dev)
