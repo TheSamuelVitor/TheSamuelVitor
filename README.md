@@ -32,4 +32,18 @@ Welcome to my profile
 ## DevMetrics
 
 <!--START_SECTION:waka-->
+
+```text
+From: 07 November 2022 - To: 21 November 2022
+
+Total Time: 21 hrs 52 mins
+
+Go               12 hrs 52 mins  ██████████████▓░░░░░░░░░░   58.52 %
+JavaScript       6 hrs 28 mins   ███████▒░░░░░░░░░░░░░░░░░   29.41 %
+JSON             54 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Markdown         38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
+TypeScript       23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
+CSS              10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
+```
+
 <!--END_SECTION:waka-->
