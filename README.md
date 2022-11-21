@@ -28,3 +28,8 @@ Welcome to my profile
 ## Tecnologias e linguagens que já tive contato
 
 [![My Skills](https://skillicons.dev/icons?i=go,react,angular,c,cpp,js,html,css,git,postgres,python,vscode,linux)](https://skillicons.dev)
+
+## DevMetrics
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
