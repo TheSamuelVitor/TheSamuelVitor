@@ -15,9 +15,8 @@ Welcome to my profile
   - Música;
 
 ## Alguns dados
-
-![Dados Github](https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula)
+<img src="https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true" alt="Status Github" height="150rem">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula" alt="Status Github" height="150rem">
 
 ## How to contact me:
 
