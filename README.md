@@ -33,7 +33,7 @@ Welcome to my profile
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 03 December 2022
+From: 07 November 2022 - To: 04 December 2022
 
 Total Time: 50 hrs 31 mins
 
