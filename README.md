@@ -33,16 +33,16 @@ Welcome to my profile
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 November 2022 - To: 08 December 2022
+From: 07 November 2022 - To: 09 December 2022
 
-Total Time: 61 hrs 33 mins
+Total Time: 64 hrs 28 mins
 
-Go               43 hrs 22 mins  █████████████████▓░░░░░░░   70.33 %
-JavaScript       10 hrs 12 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.56 %
-JSON             3 hrs 5 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
-Markdown         1 hr 12 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
-Makefile         51 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-HTML             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.06 %
+Go               45 hrs 58 mins  █████████████████▓░░░░░░░   71.16 %
+JavaScript       10 hrs 12 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.81 %
+JSON             3 hrs 12 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   04.96 %
+Markdown         1 hr 13 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
+Makefile         1 hr 3 mins     ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+HTML             39 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
