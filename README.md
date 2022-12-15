@@ -28,10 +28,9 @@ Welcome to my profile
 
 [![My Skills](https://skillicons.dev/icons?i=go,react,angular,c,cpp,js,html,css,git,postgres,python,vscode,linux)](https://skillicons.dev)
 
-## DevMetrics
+// ## DevMetrics
 
-<!--START_SECTION:waka-->
-
+// <!--START_SECTION:waka-->
 ```text
 From: 07 November 2022 - To: 13 December 2022
 
@@ -45,4 +44,4 @@ Makefile         1 hr 3 mins     ▒░░░░░░░░░░░░░░�
 Git Config       42 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
 ```
 
-<!--END_SECTION:waka-->
+// <!--END_SECTION:waka-->
