@@ -1,4 +1,4 @@
-Hi there<br/>
+Hi there  
 Welcome to my profile
 
 # Samuel Vitor
@@ -31,3 +31,6 @@ Welcome to my profile
 [![My Skills](https://skillicons.dev/icons?i=go,react,angular,c,cpp,js,html,css,git,postgres,python,vscode,linux)](https://skillicons.dev)
 
 [![](https://visitcount.itsvg.in/api?id=TheSamuelVitor&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
+
+> Se cheguei até aqui foi por me apoiar sobre ombro de gigantes.  
+> Isaac Newton
