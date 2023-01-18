@@ -16,8 +16,8 @@ Welcome to my profile
 
 ## Alguns dados
 <div style="display:flex;"> 
-<img src="https://github-readme-stats.vercel.app/api?username=TheSamuelVitor&theme=dracula&show_icons=true" alt="Status Github" width="47.5%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSamuelVitor&layout=compact&theme=dracula" alt="Status Github" width="40%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesamuelvitor&theme=dark&hide_border=true" alt="Status Github" width="47.5%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesamuelvitor&layout=compact&theme=dark&hide_border=true" alt="Status Github" width="40%">
 </div>
 
 ## How to contact me:
