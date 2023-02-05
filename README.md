@@ -28,9 +28,8 @@ Welcome to my profile
 
 ## Tecnologias e linguagens que já tive contato
 
-[![My Skills](https://skillicons.dev/icons?i=go,react,angular,c,cpp,js,html,css,git,postgres,python,vscode,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,react,angular,c,cpp,js,html,css,git,postgres,python,vscode,linux,nodejs)](https://skillicons.dev)
 
-[![](https://visitcount.itsvg.in/api?id=TheSamuelVitor&label=Profile%20Views&color=12&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 > Se cheguei até aqui foi por me apoiar sobre ombro de gigantes.  
 > Isaac Newton
