@@ -1,5 +1,4 @@
-Hi there  
-Welcome to my profile
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000A9&center=true&vCenter=true&width=700%&lines=Welcome+to+my+profile;My+name+is+Samuel+)](https://git.io/typing-svg) 
 
 # Samuel Vitor
 
