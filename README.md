@@ -1,6 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=450&size=30&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=My+name+is+Samuel+;Welcome+to+my+profile)](https://git.io/typing-svg)
-
-# Samuel Vitor
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&weight=450&size=30&pause=1000&color=FFFFFF&vCenter=true&width=800&lines=My+name+is+Samuel+;Welcome+to+my+profile)](https://git.io/typing-svg)
 
 ## Sobre mim
 
