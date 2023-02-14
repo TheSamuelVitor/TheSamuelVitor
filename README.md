@@ -2,7 +2,7 @@
 
 ## About me
 
-- Acadêmico de Sistemas de Informação no IFCE - Campus Crato.
+- Studying Information Systems at the IFCE - Campus Crato.
 - Trainee in backend Development at Brisanet
 - Focusing my studies in Golang in the backend
 - Some of my hobbys:
