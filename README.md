@@ -14,7 +14,7 @@
 
 ## Some data
 <div style="display:flex;"> 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesamuelvitor&theme=dark&hide_border=true" alt="Status Github" width="47.5%">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=thesamuelvitor&theme=dark&hide_border=true" alt="Status Github" width="56%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesamuelvitor&layout=compact&theme=dark&hide_border=true" alt="Status Github" width="40%">
 </div>
 
