@@ -28,6 +28,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=go,react,angular,c,cpp,js,html,css,git,postgres,python,vscode,linux,nodejs)](https://skillicons.dev)
 
-
 > If I have seen further, it is by standing in the shoulders of giants  
 > Isaac Newton
