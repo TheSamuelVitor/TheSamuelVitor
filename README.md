@@ -10,7 +10,7 @@
   - French;
   - Philosophy;
   - Astronomy;
-  - Músic;
+  - Music;
 
 ## Some data
 <div style="display:flex;"> 
